@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="350" src="media/awesome-jjambbong-logo.svg" alt="Awesome Jjjambbong">
+	<img width="500" height="350" src=".media/awesome-jjambbong-logo.svg" alt="Awesome Jjjambbong">
 </div>
 
 # awesome-jjambbong
